@@ -77,5 +77,7 @@ The API will start at `http://localhost:4000`.
 
 ## 📄 License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
-
+This project is currently under active pre-release development.
+* **Free for developers, hobbyists, self-hosters, and open-source contributors.**
+* **Commercial and business use is strictly prohibited** until official `V1.0` release.
+* See [LICENSE](./LICENSE) for details.
